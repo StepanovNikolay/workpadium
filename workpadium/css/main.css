@@ -1,0 +1,15 @@
+@import url('./layout/base.css');
+@import url('./layout/fonts.css');
+
+@import url('./block/header.css');
+@import url('./block/sidebar.css');
+@import url('./block/breadcrumps.css');
+@import url('./block/reviews.css');
+@import url('./block/paginator.css');
+@import url('./block/advertising.css');
+@import url('./block/feedback.css');
+@import url('./block/reviews — копия.css');
+@import url('./block/footer.css');
+@import url('./block/contenthomepage.css');
+@import url('./block/prices.css');
+@import url('./block/intro.css');

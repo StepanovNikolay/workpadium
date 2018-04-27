@@ -1,0 +1,149 @@
+.footer__p{
+
+  font-family: "GothamProBold", Arial, Helvetica;
+  font-weight: 700;
+  font-size: 14px;
+  color:#ffffff;
+
+
+}
+
+
+.footer{
+
+  background-color: #27273e;
+  padding-top: 5px;
+  
+  
+  
+  }
+
+
+  .footer__icons{
+    text-align: right;
+    float: right;
+    width: 171px;
+    height: 42px;
+   
+  }
+  .footer__title{
+    display: inline-block;
+  }
+  
+ 
+
+  
+.footer__link{
+
+  display: inline-block;
+}
+
+.footer__end{
+float: left;
+width: 33%;
+text-align: center;
+}
+
+.footer__img{
+width: 102px;
+height: 51px;
+
+}
+
+.footer__ps{
+text-align: left;
+color:#ffffff;
+
+}
+
+.footer__end--navbar{
+text-align: right;
+
+}
+
+.footer__title{
+  padding-right: 43px;
+  text-align: left;
+}
+
+
+
+
+.footer__picthur{
+background-color: #d4d4d8;
+height: 22px;
+width: 22px;
+border-radius: 50%;
+display: inline-block;
+}
+
+.footer__picthur:hover{
+background-color: #ec1e79;
+
+}
+
+.footer__picthur--vk{
+background: url('../../favicon/vk.png') center center no-repeat;
+background-color: #d4d4d8;
+height: 22px;
+width: 22px;
+border-radius: 50%;
+}
+
+
+.footer__picthur--fb{
+background: url('../../favicon/fb.png') center center no-repeat;
+background-color: #d4d4d8;
+}
+
+.footer__picthur--gg{
+background: url('../../favicon/google.png') center center no-repeat;
+background-color: #d4d4d8;
+}
+
+.footer__picthur--twit{
+  background: url('../../favicon/twitter.png') center center no-repeat;
+  background-color: #d4d4d8;
+
+}
+
+
+.footer__picthur--mail{
+  background: url('../../favicon/mail.png') center center no-repeat;
+  background-color: #d4d4d8;
+
+}
+
+.footer__icons{
+  text-align: right;
+  float: right;
+  width: 171px;
+  height: 42px;
+ 
+}
+.footer__title{
+  display: inline-block;
+}
+
+
+.loft{
+text-decoration: none;
+color: #ffffff;
+font-weight:700;
+
+}
+
+.end__ps{
+  font-family: "GothamProLight", Arial , Helvetica;
+  font-weight:300;
+  font-size: 14px;
+  color:#fff;
+
+
+}
+
+.name{
+  font-weight:700;
+
+}
+

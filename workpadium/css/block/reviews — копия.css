@@ -1,0 +1,31 @@
+
+
+.advertising__text{
+  font-family: 'GothamProLight';
+  font-weight: 300;
+  font-style: normal;
+  font-size:18px ;
+  color: #ffffff;
+  width: 87%;
+  padding-top: 49px;
+  padding-left: 320px;
+  float: left;
+ 
+}
+
+.pink{
+color:#dd1f74;
+display: inline;
+
+}
+
+.advertising__img{
+  background: url('../../img/bigpicture/Rectangle 1.jpg');
+  height: 174px;
+}
+
+
+.advertising{
+  margin-top: 60px;
+  
+}

@@ -1,0 +1,69 @@
+.nav__item{
+  font-family: "GothamProBold",Arial, Helvetica;
+  font-weight: normal;
+  font-size: 12px;
+  color:#ef508f;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom: 38px;
+
+
+}
+
+.nav{
+  list-style: none;
+}
+
+.nav__link{
+text-decoration: none;
+ color:#ef508f;
+
+}
+
+.nav__link:hover{
+color: black;
+
+}
+
+
+.nav__link:hover::before{
+background: url('../../img/layer/feed_iconblack.png') center center no-repeat;
+
+}
+
+
+.sidebar{
+margin-top: 50px;
+margin-left: 20px;
+float: left;
+width:169px ;
+}
+
+.nav__link:before{
+content:"";
+width: 20px;
+height: 20px;
+background: url('../../img/layer/feed_icon1.png') center center no-repeat;
+display: inline-block;
+vertical-align: middle;
+padding-right: 18px;
+}
+
+.nav__link--black:before{
+background:url('../../img/layer/main_icon2.png') center center no-repeat;
+
+}
+.nav__link--black:hover:before{
+background-image: url('../../img/layer/main_icon1.png');
+
+}
+
+.nav__link--pink:before{
+background: url('../../img/layer/wallet_icon.png') center center no-repeat;
+
+}
+
+.nav__link--pink:hover:before{
+background: url('../../img/layer/wallet_iconblack.png') center center no-repeat;
+
+}

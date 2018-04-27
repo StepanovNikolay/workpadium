@@ -1,0 +1,137 @@
+
+
+.prices{
+
+  font-family: 'GothamProBold';
+  font-style: normal;
+ font-size: 49px;
+ margin-bottom: 50px;
+}
+
+
+.prices__p{
+  font-family: 'GothamProBold';
+  font-style: normal;  font-family: 'GothamProBold';
+  font-style: normal;
+ font-size: 49px;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 20px;
+  text-align: center;
+  
+ 
+}
+
+
+.prices__p2{
+  font-family: "GothamPro", Arial , Helvetica;
+  font-weight:normal;
+  text-align: center;
+  padding-bottom: 50px;
+  text-align: center;
+  line-height: 1.5;
+  width: 258px;
+  
+ 
+}
+
+.prices__img{
+
+width: 100%;
+height: 158px;
+overflow: hidden;
+border-radius: 3px;
+position: relative;
+margin-bottom: 30px;
+
+
+
+
+}
+
+
+
+
+
+.prices__img:after{
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(39, 39, 62, 0.851);
+  transform: 0.3s;
+
+
+
+}
+
+.img__text{
+position: absolute;
+top:50%;
+left: 50%;
+transform: translate(-50%,-50%);
+ color:#5dd1f8;
+ text-transform: uppercase;
+ font-family: 'GothamProBold';
+ font-size: 24px;
+ z-index: 10;
+ text-align: center;
+ width:202px;
+line-height: 1.5;
+}
+
+.img__text--vip{
+  color:#ec1e79;
+  top: -18%;
+}
+
+
+.prices__list{
+  display: inline-block;
+  width: 33%;
+  vertical-align: top;
+  padding-left: 60px;
+ 
+ 
+}
+
+.prices__list:hover .prices__img:after{
+  background-color: rgba(39, 39, 62, 0);
+
+}
+
+
+
+.partners__text{
+ font-family: 'GothamProBold';
+font-style: normal;
+ font-size: 49px;
+ margin-bottom: 60px;
+  
+}
+
+
+.logo__partners{
+list-style: none;
+
+}
+
+.logo{
+  display: inline-block;
+  width: 250px;
+  height: 50px;
+  margin-bottom: 101px;
+}
+.logo__img{
+  transition: 1s;
+  filter: sepia(0%)
+
+}
+
+
+.logo__img:hover{
+  filter: sepia(100%);
+ 
+}

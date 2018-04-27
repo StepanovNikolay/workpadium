@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'GothamPro';
+  src: url('../../fonts/GothamPro.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback
+}
+
+.breadcrumps{
+  font-family: 'GothamPro';
+  src: url('../../fonts/GothamPro.woff') format('woff');
+  font-weight: 400;
+  font-size: 14px;
+  color: #f04b94;
+ margin-bottom: 38px;
+ margin-left: 28px;
+  
+}
+
+.breadcrumps_item{
+  display: inline-block;
+}
+
+.breadcrumps_item--black{
+color: black;
+
+}
